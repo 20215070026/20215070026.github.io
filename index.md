@@ -1,4 +1,4 @@
-[](https://osmaniye.edu.tr/Resource/Images/osmaniye-korkut-ata-universitesi.png)
+![](https://osmaniye.edu.tr/Resource/Images/osmaniye-korkut-ata-universitesi.png)
 # Osmaniye Korkut Ata Üniversitesi
 ### Yönetim Bilişim Sistemleri Hakkında Her Şey
 Bu sayfa yönetim bilişim sistemleri 1. sınıf öğrencisine ait olmakla beraber, Bu bölümü okuyan veya ilgi duyan herkes için kurulmuştur.
