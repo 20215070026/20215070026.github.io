@@ -1,3 +1,4 @@
+[](https://www.osmaniye.edu.tr/)
 ## Siteme Hoşgeldiniz
 Bu Sitede Yönetim Bilişim Sistemlerine Ait Her Şeyi Bulabilirsiniz.
 
