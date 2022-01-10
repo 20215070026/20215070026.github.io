@@ -1,4 +1,4 @@
-[](https://www.osmaniye.edu.tr/Resource/Images/osmaniye-korkut%20ata-universitesi-Mn.png)
+[](https://www.osmaniye.edu.tr/Resource/Images/osmaniye-korkut-ata-universitesi.png)
 ## Siteme Hoşgeldiniz
 Bu Sitede Yönetim Bilişim Sistemlerine Ait Her Şeyi Bulabilirsiniz.
 
