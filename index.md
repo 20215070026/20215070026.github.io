@@ -1,4 +1,8 @@
 ## Siteme Hoşgeldiniz
+Bu Sitede Yönetim Bilişim Sistemlerine Ait Her Şeyi Bulabilirsiniz.
+
+
+
 
 Ben Kimim?
 Sıla Karakılçık, Yönetim bilişim sistemleri 1. sınıf öğrencisiyim.
